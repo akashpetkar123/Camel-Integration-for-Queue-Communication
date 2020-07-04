@@ -2,6 +2,7 @@
 A queue is used as medium to comunicate between two devices
 
 As all of you know what is Queue?
+
 Queue is nothing but a data structure which is used to hold messages in a tunnel and send it one by one. It is FIFO(First In First Out), take an example of railway station where passendgers are standing in line to take the platform ticket.
 
 A queue is one the best way for communication between two systems because if one systems is down for some period then it stores the request within it and send a tranmission to check whether the system is up or not. If system is up then the queue will send the response to other system. In this way there is no chance of communication or information lost.
